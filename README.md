@@ -65,4 +65,13 @@ This Android application is a robust contact management system that supports use
 
 ### Error Handling
 - **Robust Error Handling:** Extensive use of exception handling ensures that the application operates smoothly, even under unexpected conditions.
+### Demonstration
+
+![Screenshot (2219)](https://github.com/user-attachments/assets/fc8ae510-e54b-4946-a817-5ade1b2abede)
+
+
+![Screenshot (2220)](https://github.com/user-attachments/assets/dd695ddf-f0c3-4b73-8301-6ca445fc8b4c)
+
+
+![Screenshot (2221)](https://github.com/user-attachments/assets/0cb903d5-566b-493a-a0f9-346dfe3bed4d)
 
